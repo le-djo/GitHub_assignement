@@ -36,7 +36,7 @@ SauvÃ© Antoine
 Reibel Baptiste X
 Rousseau Thomas
 SauvÃ© Antoine X
-Schneersohn Nathan
+Schneersohn Nathan X https://github.com/nathanpro-prog/GitHub_assignement/tree/main
 Viallet Milan
 Vicente Matheo X
 Wang Leo
