@@ -25,7 +25,7 @@ Marie de Ficquelmont Alexandre
 Marlier Robin
 Pereira Mario
 Reibel Baptiste
-Rousseau Thomas
+Rousseau Thomas https://github.com/thomasssrss/ml-poc-project/tree/main
 Sauvé Antoine
 Schneersohn Nathan
 Viallet Milan
