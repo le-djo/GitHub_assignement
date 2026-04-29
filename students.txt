@@ -7,8 +7,6 @@ Capone LÃ©o
 Cardona Monget Milo - https://github.com/plutoskio/ml-poc-project/tree/main
 Carriou Manech
 Debard Hugo - https://github.com/gglm-web/ml-poc-project
-Carriou Manech
-Debard Hugo
 Delattre Alexandre
 de l'Epine Victor - https://github.com/v2lepine/GitHub_assignement/blob/main/students.txt
 Diallo-Dou Louis - https://github.com/m3pr1x/ml-poc-project
