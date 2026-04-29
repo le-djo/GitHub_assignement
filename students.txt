@@ -23,7 +23,7 @@ Lallau Ilyes
 Landry Madeleine
 Lhoest Hugo
 Libourel Justine
-Lounis Amine
+Lounis Amine - https://github.com/AmineLnis/ml-poc-project
 Marie de Ficquelmont Alexandre
 Marlier Robin
 Pereira Mario
