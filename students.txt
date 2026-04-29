@@ -1,34 +1,38 @@
-Milcent Thomas X
+﻿Milcent Thomas - https://github.com/thom1100/ml-poc-project/tree/main
 Abdo Joseph
 Aidan Annaelle
 Attia Noa
 Benaim Lior
-Capone Léo
-Cardona Monget Milo
+Capone LÃ©o
+Cardona Monget Milo - https://github.com/plutoskio/ml-poc-project/tree/main
+Carriou Manech
+Debard Hugo - https://github.com/gglm-web/ml-poc-project
 Carriou Manech
 Debard Hugo
 Delattre Alexandre
 de l'Epine Victor
 Diallo-Dou Louis
 Dorn Maximilien
-Fernandez de la Vega Émilie
+Fernandez de la Vega Émilie - https://github.com/emiliefdelavega-cyber/ml-poc-project
 Flasaquier Simon
 Fortier Lou-Anne
 Guesnier-Maleterre Louise
-Jaskulké Flore
+Fortier Lou-Anne
+JaskulkÃ© Flore
 Lallau Ilyes
 Landry Madeleine
 Lhoest Hugo
-Libourel Justine
-Lounis Amine
+Libourel Justine - https://github.com/justinelbr6/ml-poc-project
+Lounis Amine - https://github.com/AmineLnis/ml-poc-project
 Marie de Ficquelmont Alexandre
 Marlier Robin
 Pereira Mario
 Reibel Baptiste
 Rousseau Thomas https://github.com/thomasssrss/ml-poc-project/tree/main
 Sauvé Antoine
+Reibel Baptiste
 Schneersohn Nathan
 Viallet Milan
-Vicente Matheo
+Vicente Matheo https://github.com/matheovicente/ml-poc-project/tree/main
 Wang Leo
 Wangrevelain Joseph
